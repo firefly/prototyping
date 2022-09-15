@@ -14,6 +14,6 @@ Libraries
 ---------
 
 - Espressif
-  - Repositoy at [espressif/kicad-librarie](https://github.com/espressif/kicad-libraries)
+  - Repository at [espressif/kicad-librarie](https://github.com/espressif/kicad-libraries)
   - Licensed under [CC-BY-SA 4.0](https://github.com/espressif/kicad-libraries/blob/main/LICENSE.md)
 
