@@ -27,13 +27,23 @@ See [thirdparty-datasheets](https://github.com/firefly/thirdparty-datasheets/#di
 Pins
 ----
 
-- 5v power rail, 3.3v power rail (unconnected)
-- ground rail
-- connected ties
-- 3.3v, ground and shield from power sub-system
-- Full 24-pin connector for FPC with both normal and inverted connection
-- Full ESP32-C3-MINI-1 GPIO pins and enable
+- MCU
+  - Full ESP32-C3-MINI-1 GPIO pins, 3V3 and enable
+- USB Power Sub-system
+  - 3.3v power rail
+  - ground rail
+  - exposed CC1, CC2 and shield
+- Display
+  - Full 24-pin connector for FPC with both normal and inverted connection
 - 4x Buttons
+
+
+Design
+------
+
+![Image](./sample-pcb.png?raw=true)
+
+![Image](./sample-3d.png?raw=true)
 
 
 Current Focus
